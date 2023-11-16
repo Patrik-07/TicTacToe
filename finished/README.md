@@ -1,0 +1,1 @@
+A kész programba kerültek a specifikációba nem szereplő új funkciók is.
